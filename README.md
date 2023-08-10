@@ -12,7 +12,7 @@
 </div>
 
   <div align ="CENTER">
-  <img  height="100" src=Imagenes/retro.png
+  <img  height="100" src=https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/retro.png
   </div>
 
 Here you will find everything that I learned in C++ <br>
