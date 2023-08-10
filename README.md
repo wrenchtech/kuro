@@ -18,6 +18,8 @@
 Here you will find everything that I learned in C++ <br>
 Visit me at me profile [here](https://github.com/wrenchtech)
 
+If you want to look at my new JavaScrpit course check [this](https://github.com/wrenchtech/JavaScript---Basics-to-Advanced-step-by-step-2022-)
+
 [♫](https://www.youtube.com/watch?v=TENzstSjsus&ab_channel=MetroBoominVEVO)
 
 <div align ="center">
